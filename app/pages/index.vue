@@ -128,10 +128,6 @@
         </div>
       </section>
     </main>
-
-    <footer class="py-20 text-center border-t border-slate-50 mt-20 opacity-40">
-      <p class="text-slate-400 text-[10px] uppercase tracking-[0.5em]">&copy; 2025 Wallet Panic Planner • Own Your Money</p>
-    </footer>
   </div>
 </template>
 
