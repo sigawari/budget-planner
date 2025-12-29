@@ -34,7 +34,7 @@
 
         <div class="flex flex-col sm:flex-row justify-center gap-4 pt-6">
           <button
-            @click="goToGumroad"
+            @click="scrollTo('#offer')"
             class="px-10 py-5 bg-slate-900 text-white text-sm font-black rounded-2xl hover:bg-red-600 transition-all shadow-2xl hover:-translate-y-1 uppercase tracking-wider"
           >
             GET THE PLANNER
