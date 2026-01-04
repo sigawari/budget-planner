@@ -248,7 +248,7 @@
               </h3>
               <p class="text-slate-300">
                 Ready-to-use spreadsheets to organize your money, your week, and
-                your habits—so you stay consistent.
+                your habits so you stay consistent.
               </p>
             </div>
 
